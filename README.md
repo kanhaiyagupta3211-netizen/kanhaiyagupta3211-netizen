@@ -1,214 +1,310 @@
 <div align="center">
 
-👋 Hey, I'm Krishna
-B.Tech CSE (Data Science) • Developer • Builder
-<p> <a href="https://github.com/kanhaiyagupta3211-netizen"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/kanhaiya-gupta-505589241/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://leetcode.com/u/Kanhaiya_Gupta415/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="https://www.codechef.com/users/pure_rustle_83"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:06B6D4&height=190&section=header&text=KRISHNA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Data%20Science%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=17" width="100%" />
 
-<p> <strong>Learn • Build • Solve • Ship • Improve</strong> </p>
+<a href="https://github.com/kanhaiyagupta3211-netizen">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/kanhaiya-gupta-505589241/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Kanhaiya_Gupta415/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.codechef.com/users/pure_rustle_83">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=Building+real+projects%2C+not+just+tutorials.;C%2B%2B+%7C+Python+%7C+React+%7C+AI+%7C+Data+Science;Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve" alt="Typing intro"/>
 
 </div>
 
-🚀 About Me
-I'm a B.Tech CSE (Data Science) student who enjoys turning ideas into practical software and learning by building.
+✦ About Me
 
-💻 Strengthening DSA with C++
+<table>
+<tr>
+<td width="58%" valign="top">
 
-🐍 Building a strong Python + Data Science foundation
+👋 Hello!
 
-🌐 Exploring Full-Stack Development
+I'm Krishna, a B.Tech CSE (Data Science) student who likes turning ideas into practical projects.
 
-🤖 Building and experimenting with AI-powered applications
+I learn by combining problem solving, development, data and AI — then putting those skills into projects.
 
-🏆 Participating in hackathons and innovation projects
+Currently focused on:
 
-📚 Following a structured learning journey from fundamentals to real-world projects
+💻 C++ + Data Structures & Algorithms
 
-My goal: become a strong problem solver and developer who can turn real problems into useful products.
+🐍 Python + Data Science
 
-🧭 Current Focus
-<table> <tr> <td width="50%">
+🌐 Frontend & Full-Stack Development
 
-💻 Problem Solving
-C++ & STL
+🤖 AI-powered applications
 
-Data Structures & Algorithms
-
-LeetCode practice
-
-Competitive programming fundamentals
-
-</td> <td width="50%">
-
-📊 Data & AI
-Python
-
-NumPy & Pandas
-
-Data Cleaning & EDA
-
-SQL & Statistics
-
-Machine Learning foundations
-
-</td> </tr> </table>
-
-🛠️ Tech Stack
-Languages
-<p> <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" alt="Languages"/> </p>
-
-Web & Backend
-<p> <img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,nodejs" alt="Web technologies"/> </p>
-
-Data & AI
-<p> <img src="https://skillicons.dev/icons?i=python" alt="Python"/> </p>
-
-NumPy • Pandas • Matplotlib • Seaborn • SQL • OCR • Rule Engines
-
-Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools"/> </p>
-
-🔥 Featured Work
-<table> <tr> <td width="50%">
-
-📦 PackCheck AI
-An AI-assisted packaged-product compliance project exploring OCR + rule-based validation for product declarations.
-
-Stack: Python • FastAPI • OCR • Rule Engine
-
-🚧 Currently building & improving
-
-<a href="https://github.com/kanhaiyagupta3211-netizen/packcheck-ai">View Repository →</a>
+🏆 Hackathons & product innovation
 
 </td>
+<td width="42%" valign="top">
 
-<td width="50%">
+⚡ Quick Snapshot
 
-🇮🇳 Azadi India
-An interactive web experience about India's independence journey, featuring heroes, movements, places and an interactive experience.
+🎓 Education
+B.Tech CSE (Data Science)
 
-Stack: React • Vite • Tailwind • Framer Motion
+💻 Primary Language
+C++
 
-<a href="https://github.com/kanhaiyagupta3211-netizen/azadi-india">Code →</a> •
-<a href="https://azadi-india.vercel.app">Live →</a>
+🐍 Data / AI
+Python
 
-</td> </tr>
+🌐 Web
+React • Vite • Tailwind
 
-<tr> <td width="50%">
+🚀 Backend
+FastAPI
 
-🤖 Resume AI
-An AI-focused project exploring how intelligent tools can assist with resume-related workflows.
-
-Stack: AI • Web Development
-
-<a href="https://github.com/kanhaiyagupta3211-netizen/Resume_Ai">View Repository →</a>
+🧠 Current Goal
+Become internship-ready
 
 </td>
+</tr>
+</table>
 
-<td width="50%">
+🧰 Tech Stack
 
-🧠 Interview Agent
-An experimental AI project focused on interview-related workflows and interaction.
-
-Stack: AI • Web Development
-
-<a href="https://github.com/kanhaiyagupta3211-netizen/Interview-Agent">View Repository →</a>
-
-</td> </tr> </table>
-
-💻 Coding Journey
-🧩 DSA with C++
-I'm solving programming problems primarily with C++, focusing on understanding the logic instead of only collecting problem counts.
-
-Current areas:
-
-Arrays • Strings • Searching • Sorting • STL • Problem Solving
-
-🟡 LeetCode
-<a href="https://leetcode.com/u/Kanhaiya_Gupta415/"> <img src="https://img.shields.io/badge/Visit%20my%20LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/> </a>
-
-🍳 CodeChef
-<a href="https://www.codechef.com/users/pure_rustle_83"> <img src="https://img.shields.io/badge/Visit%20my%20CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile"/> </a>
-
-📚 DSA Repository
-<a href="https://github.com/kanhaiyagupta3211-netizen/Leetcode_solution">LeetCode Solutions →</a>
-
-🐍 Python & Data Science Journey
-Currently building my Python foundation and progressing toward Data Science:
-
-Python
-  ↓
-NumPy
-  ↓
-Pandas
-  ↓
-Data Cleaning
-  ↓
-EDA & Visualization
-  ↓
-SQL
-  ↓
-Statistics
-  ↓
-Machine Learning
-📁 <a href="https://github.com/kanhaiyagupta3211-netizen/python-journey">Follow my Python Journey →</a>
-
-🏆 Innovation & Hackathons
-🚀 Eureka 2026 — FOLD-X
-A mechanical/product innovation project, not a software project.
-
-The idea explores a foldable, multi-purpose cleaning product designed around practical everyday use.
-
-Focus: Product Innovation • Problem Solving • Entrepreneurship
-
-I keep software projects and physical product innovation separate because both represent different parts of my journey.
-
-📈 2026 Goals
-<table> <tr> <td>☑</td> <td>Build strong C++ + DSA fundamentals</td> </tr> <tr> <td>☑</td> <td>Practice problem solving consistently</td> </tr> <tr> <td>🔄</td> <td>Strengthen Python</td> </tr> <tr> <td>🔄</td> <td>Learn NumPy + Pandas + EDA</td> </tr> <tr> <td>🔄</td> <td>Learn SQL + Statistics</td> </tr> <tr> <td>🔄</td> <td>Build stronger Data Science projects</td> </tr> <tr> <td>🔄</td> <td>Improve Full-Stack Development</td> </tr> <tr> <td>🎯</td> <td>Become internship-ready</td> </tr> </table>
-
-📊 GitHub
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kanhaiyagupta3211-netizen&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub stats"/>
+Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiyagupta3211-netizen&layout=compact&hide_border=true" height="165" alt="Top languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
+
+Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,nodejs" />
+
+Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+<br>
+
+NumPy Pandas Matplotlib Seaborn SQL OCR Rule Engines
 
 </div>
 
-📜 Certifications & Learning
-I keep certifications as supporting evidence of learning while giving more importance to projects, problem solving and practical skills.
+🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+📦 PackCheck AI
+
+AI-assisted packaged-product compliance
+
+OCR + rule-based validation for checking product declarations.
+
+Built with
+
+Python FastAPI OCR Rule Engine
+
+🚧 Actively improving
+
+<a href="https://github.com/kanhaiyagupta3211-netizen/packcheck-ai">
+<img src="https://img.shields.io/badge/VIEW%20CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🇮🇳 Azadi India
+
+Interactive Independence Day experience
+
+A visual web experience covering India's freedom journey, heroes, movements and places.
+
+Built with
+
+React Vite Tailwind Framer Motion
+
+<a href="https://github.com/kanhaiyagupta3211-netizen/azadi-india">
+<img src="https://img.shields.io/badge/CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://azadi-india.vercel.app">
+<img src="https://img.shields.io/badge/LIVE-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🤖 Resume AI
+
+AI-focused project exploring intelligent resume workflows.
+
+Focus
+
+AI Web Development Automation
+
+<a href="https://github.com/kanhaiyagupta3211-netizen/Resume_Ai">
+<img src="https://img.shields.io/badge/VIEW%20CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🧠 Interview Agent
+
+Experimental AI project around interview-related workflows and interaction.
+
+Focus
+
+AI Web Development Problem Solving
+
+<a href="https://github.com/kanhaiyagupta3211-netizen/Interview-Agent">
+<img src="https://img.shields.io/badge/VIEW%20CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+📊 Data Science Journey
+
+<div align="center">
+
+Python
+  │
+  ├── NumPy
+  │
+  ├── Pandas
+  │
+  ├── Data Cleaning
+  │
+  ├── EDA + Visualization
+  │
+  ├── SQL
+  │
+  ├── Statistics
+  │
+  └── Machine Learning
+
+<a href="https://github.com/kanhaiyagupta3211-netizen/python-journey">
+<img src="https://img.shields.io/badge/EXPLORE%20PYTHON%20JOURNEY-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+💻 Problem Solving
+
+I practice DSA primarily in C++ with an emphasis on understanding the approach, writing clean code and improving problem-solving ability.
+
+Focus:
+Arrays · Strings · Searching · Sorting · STL · Problem Solving
+
+<div align="center">
+
+<a href="https://github.com/kanhaiyagupta3211-netizen/Leetcode_solution">
+<img src="https://img.shields.io/badge/DSA%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+LeetCode/CodeChef profiles are linked above, but I am intentionally not displaying solved counts or progress statistics right now.
+
+🏆 Innovation
+
+FOLD-X — Eureka 2026
+
+A mechanical/product innovation, separate from my software portfolio.
+
+The project explores a foldable, multi-purpose cleaning product designed around practical everyday use.
+
+Focus: Product Innovation · Problem Solving · Entrepreneurship
+
+📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kanhaiyagupta3211-netizen&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiyagupta3211-netizen&layout=compact&hide_border=true" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=kanhaiyagupta3211-netizen&hide_border=true" height="170"/>
+
+</div>
+
+🎯 2026 Roadmap
+
+<table align="center">
+<tr>
+<td align="center">💻<br><b>DSA</b><br>C++</td>
+<td>→</td>
+<td align="center">🐍<br><b>Python</b><br>Core + DS</td>
+<td>→</td>
+<td align="center">📊<br><b>Data</b><br>EDA + SQL</td>
+<td>→</td>
+<td align="center">🤖<br><b>ML</b><br>Foundations</td>
+<td>→</td>
+<td align="center">🚀<br><b>Projects</b><br>Ship</td>
+</tr>
+</table>
+
+📜 Certifications
+
+Certificates support the journey — projects and practical skills come first.
+
+Certification
+
+Area
 
 🧠 IBM — Getting Started with Artificial Intelligence
 
+AI
+
 💻 HackerRank — Problem Solving (Basic)
 
-🌐 freeCodeCamp — Developer Learning
+Problem Solving
 
-📊 NPTEL — Python for Data Science (learning)
+🌐 freeCodeCamp
 
-💡 How I Learn
-Learn
-  ↓
-Understand the Concept
-  ↓
-Solve Problems
-  ↓
-Build a Project
-  ↓
-Debug & Improve
-  ↓
-Ship It 🚀
-Don't just learn technology. Build something with it.
+Developer Learning
 
-🤝 Let's Connect
+📊 NPTEL — Python for Data Science
+
+Data Science (learning)
+
+🧠 My Build Loop
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kanhaiya-gupta-505589241/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+LEARN → UNDERSTAND → BUILD → DEBUG → IMPROVE → SHIP 🚀
 
-<a href="https://leetcode.com/u/Kanhaiya_Gupta415/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a>
+</div>
 
-<a href="https://www.codechef.com/users/pure_rustle_83"> <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/> </a>
+🤝 Let's Connect
 
-<a href="https://github.com/kanhaiyagupta3211-netizen"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kanhaiya-gupta-505589241/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kanhaiyagupta3211-netizen">
+<img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://azadi-india.vercel.app">
+<img src="https://img.shields.io/badge/PROJECT%20DEMO-Azadi%20India-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
@@ -216,8 +312,8 @@ Don't just learn technology. Build something with it.
 
 <div align="center">
 
-⭐ Thanks for visiting!
-Keep learning. Keep building. Keep shipping. 🚀
+⚡ Building today for the developer I want to become tomorrow.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:111827&height=110&section=footer" width="100%" />
 
 </div>
-
